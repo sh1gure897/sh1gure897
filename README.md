@@ -1,18 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=sh1gure897&fontSize=80&animation=fadeIn&fontAlignY=45" alt="header" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1500&color=8AB4F8&center=true&vCenter=true&width=500&lines=Crafting+digital+experiences;Full-stack+development+%26+Design;Turning+ideas+into+scalable+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1500&color=8AB4F8&center=true&vCenter=true&width=600&height=100&lines=I'm+sh1gure897;Crafting+digital+experiences;Full-stack+Developer" alt="Typing SVG" />
 </div>
 
 <br />
 
-## 🔭 Perspective
+## 🪐 Perspective
 A developer driven by the intersection of **efficiency** and **aesthetics**. Constantly exploring new ways to build cleaner, more resilient systems.
 
 - ⚡ **Focus:** High-performance web architectures & user-centric design.
-- 🛠 **Current Journey:** Deepening expertise in [Current Tech/Field].
+- 🌱 **Current Journey:** Deepening expertise in [Current Tech/Field].
 - 💬 **Collaborations:** Open to innovative projects and open-source contributions.
 
 <br />
