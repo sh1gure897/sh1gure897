@@ -11,7 +11,7 @@ A developer driven by the intersection of **efficiency** and **aesthetics**. Con
 
 - ⚡ **Focus:** High-performance web architectures & user-centric design.
 - 🌱 **Current Journey:** Deepening expertise in [Current Tech/Field].
-- 💬 **Collaborations:** Open to innovative projects and open-source contributions.
+- 💬 **Collaborations:** Open to innovative projects and open-source contributions..
 
 <br />
 
